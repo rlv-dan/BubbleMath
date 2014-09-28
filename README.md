@@ -17,7 +17,7 @@ Made with Python 2 (www.python.org) and Pygame (www.pygame.org). The game was de
 * Game engine by Pygame (www.pygame.org)
 * Window Exe created with py2exe (www.py2exe.org)
 * Sound effects:
-  * ball.ogg: from Ballsmacker (ballsmacker.sourceforge.net) (GPL2)
+  * ball.ogg: from Ballsmacker (www.ballsmacker.sourceforge.net) (GPL2)
   * bubble.ogg: by Glaneur de sons (www.freesound.org/people/Glaneur%20de%20sons) (CC BY-NC 3.0)
   * click.ogg: from NeverBall (www.neverball.org) (GPL2)
   * gameover.ogg, complete.ogg: from Secret Maryo Chronicles (www.secretmaryo.org) (GPL3)
