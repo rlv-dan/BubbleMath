@@ -1,8 +1,8 @@
 BubbleMath
 ==========
 
-An edutainment game where you solve math problems using game mechanics similar to billiards/pool
+Bubble Math is an edutainment game with mechanics similar to billiards/pool. You shoot your bubble around, knocking other bubbles trying to get them to hit each other so that their numbers together equal the specified goal.
 
-Made with Python 2 (www.python.org) and Pygame (www.pygame.org)
+Homepage with screenshots and Windows EXE download: www.rlvision.com/bubblemath
 
-The game was developed as part of a Python course, and received top grade. The source code is well structured and contains lots of comments, and should be suitable for learning how to make a game.
+Made with Python 2 (www.python.org) and Pygame (www.pygame.org). The game was developed as part of a Python course and received top grade. The source code is well structured and contains lots of comments, and might be suitable for learning how to make a game using Python and PyGame.
