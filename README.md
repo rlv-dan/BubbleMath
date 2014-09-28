@@ -10,6 +10,7 @@ Made with Python 2 (www.python.org) and Pygame (www.pygame.org). The game was de
 ## Credits
 
 * Designed and programmed by Dan Saedén
+* Copyright (c) RL Vision 2013-2014 (www.rlvision.com)
 * Some graphics based on "PuzzleGraphics" by Kenney Vleugels (www.kenney.nl)
 * PyParticles module by Peter Collingridge (www.petercollingridge.co.uk/pygame-physics-simulation)
 * Music by InSpira (www.jamendo.com/en/artist/350698/inspira) (CC BY-NC-ND 3.0)
