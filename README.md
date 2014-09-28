@@ -7,4 +7,4 @@ Homepage with screenshots and Windows EXE download: www.rlvision.com/bubblemath
 
 Made with Python 2 (www.python.org) and Pygame (www.pygame.org). The game was developed as part of a Python course and received top grade. The source code is well structured and contains lots of comments, and might be suitable for learning how to make a game using Python and PyGame.
 
-For credits, see ReadMe.txt file
+See readme.txt for development credits and game asset attributions
