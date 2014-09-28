@@ -9,8 +9,6 @@ Made with Python 2 (www.python.org) and Pygame (www.pygame.org). The game was de
 
 ## Credits
 
-See readme file for complete credits and game asset licensing.
-
 * Designed and programmed by Dan Saedén
 * Some graphics based on "PuzzleGraphics" by Kenney Vleugels (www.kenney.nl)
 * PyParticles module by Peter Collingridge (www.petercollingridge.co.uk/pygame-physics-simulation)
